@@ -1,1 +1,2 @@
 Hello this is a git
+Hi this is a 2 line modifies
